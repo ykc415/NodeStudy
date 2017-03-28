@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "'Do it! Node.js 프로그래밍' 책으로 Node.js를 공부합니다 ~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykc415/NodeStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykc415/NodeStudy/issues"
+  },
+  "homepage": "https://github.com/ykc415/NodeStudy#readme"
+}
